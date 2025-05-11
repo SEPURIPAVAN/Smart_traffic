@@ -31,7 +31,7 @@ module.exports = {
           800: '#5b21b6',
           900: '#4c1d95',
         },
-        dark: {
+        dark: { //checking weather the deploy will happen auto!
           100: '#1E293B',
           200: '#0F172A',
           300: '#020617',
